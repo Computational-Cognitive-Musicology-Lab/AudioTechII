@@ -11,7 +11,7 @@ backcall==0.2.0
 beautifulsoup4==4.11.1
 bleach==6.0.0
 bokeh==3.0.3
-certifi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5d968ni_yn/croot/certifi_1671487774636/work/certifi
+certifi
 cffi==1.15.1
 chardet==5.1.0
 charset-normalizer==3.0.1
