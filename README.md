@@ -1,33 +1,10 @@
-# AudioTechII_GRA
-GRA work for AudioTech II
+# AudioTechII Course Components
 
-## Checklist
-### Lectures
-- [x] DSP - Signals
-- [x] DSP - Sampling
-- [x] DSP - Modulation
-- [x] DSP - Autocorrelation
-- [x] DSP - Convolution
-- [x] DSP - DFT
-- [x] DSP - STFT
-- [x] DSP - Spectral Analysis
-- [x] Statistics - Statistical Models
+### Lectures: Jupyter notebooks
+All lesson materials are stored in Jupyter notebooks. The lectures are currently organized as follows (though subject to fairly frequent updating/modification):
 
-### Interaction
-- [x] Frequency, amplitude and phase
-- [x] Sampling Process
-- [x] Correlation animation
-- [x] Convolution animation
-- [ ] FT, DTFT, DFT, STFT animation
-
-### Coding Practice
-- [ ] Anaconda installation and python enviroment
-- [ ] Coding Forms? Questions?
-- [ ] Lesson 7: ASDR coding
-
-### Lectures: jupyter notebook
 - [ ] Lesson 1: Installing jupyter
-- [x] Lesson 1.5: Jupyter Basics: Python prepare
+- [x] Lesson 1.5: Jupyter Basics: Python preparation
 - [x] Lesson 2: Intro Python Sound
 - [x] Lesson 2.5: Intro Lesson: Numpy
 - [x] Lesson 3: More Python and Numpy
@@ -62,3 +39,12 @@ GRA work for AudioTech II
 - [x] Lesson 22: Data Science 2
 - [x] Lesson 22: Statistical Modeling
 - [x] Lesson 25: Data Science 3
+
+### Activities
+Activities relate to class lectures and offer opportunities for students to test out functions or practice skills in a clean Jupyter notebook with directives (without having to modify the lecture material notebooks).
+
+### Audio and Image folders
+Note that notebooks point to audio and image files from the separate directories. Renaming the directories will cause the notebooks to error. As such, it is advised not to change directory names.
+
+### Interactive Tools
+Interactive web tools (originally created by Jiaying Li) are provided for additional reference and hands-on manipulation using a GUI without having to code any parameters. The interaction tools are [available here:](https://jiayingli0803.github.io/AudioTechII_GRA/interaction/interaction.html)
